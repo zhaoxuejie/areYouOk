@@ -84,6 +84,18 @@ docker run -d \
   pxvp2008/areyouok-app:latest
 ```
 
+### 系统功能
+![1](https://github.com/user-attachments/assets/f92e6b35-6471-4a0a-86c3-57ca725211f9)
+![2](https://github.com/user-attachments/assets/df41db0b-357a-4bee-8006-76c9881d7b92)
+![3](https://github.com/user-attachments/assets/6b6932d0-907f-4bed-bf38-3f335193788b)
+![4](https://github.com/user-attachments/assets/68dd537b-f906-40cc-ae70-d86f717a11a6)
+![5](https://github.com/user-attachments/assets/62ccf1c7-b977-4d8f-a561-54957da52fb1)
+![6](https://github.com/user-attachments/assets/b2cc2803-44ab-4fcc-8e23-e8bf4574ce77)
+![7](https://github.com/user-attachments/assets/e500a20d-5250-435c-ac1b-7592aaed2481)
+![8](https://github.com/user-attachments/assets/b0b32e5b-d5f5-4e33-90ef-06e2a0f5e3b3)
+![9](https://github.com/user-attachments/assets/b5ad6eef-ecd2-498c-98d3-85d8cddfb636)
+![10](https://github.com/user-attachments/assets/8a41e509-bbe1-4365-b2db-3bfd5a4cc2b1)
+
 ## 使用指南
 
 ### 1. 初始配置
